@@ -1,0 +1,7 @@
+[[!yandexMaps?
+	&tvCoords=`coords`
+	&styleMapBlock=`width:100%;height:350px;`
+	&zoom=`14`
+	&checkZoomRange=`0`
+	&centerCoords=`[[*coords]]`
+]]
